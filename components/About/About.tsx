@@ -41,9 +41,8 @@ export const About = ({ about, openToWork }: { about: AboutProps; openToWork: bo
                 <Image
                   src={image.url}
                   className="about__card__image"
-                  width={image.size.width}
-                  height={image.size.height}
-                  alt="Portrait photo of Lewis Hadden"
+                  fill
+                  alt="Portrait photo of Aashish Singh"
                   loader={aboutImageLoader}
                   sizes="(min-width: 1170px) 471px, (min-width: 992px) calc((100vw - 2.5rem) * 0.417), calc(100vw - 2.5rem)"
                   loading={isDesktop ? 'eager' : 'lazy'}

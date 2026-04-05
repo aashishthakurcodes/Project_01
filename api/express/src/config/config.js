@@ -1,5 +1,5 @@
-export const senderEmail = 'portfolio@lewishadden.com';
+export const senderEmail = 'portfolio@aashishthakurcodes.com';
 
-export const recieverEmail = 'lewishadden@gmail.com';
+export const recieverEmail = 'singhaashish909@gmail.com';
 
 export const emailSubject = 'New Portfolio Message';
