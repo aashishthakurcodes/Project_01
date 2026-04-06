@@ -89,15 +89,7 @@ export const Projects = ({ projects }: { projects: ProjectsProps }) => {
                         >
                           <div className="projects__item__card__body">
                             <div className="projects__item__card__top">
-                              <div className="projects__item__card__icon-wrapper">
-                                <Icon
-                                  icon={project.thumbnail}
-                                  className="projects__item__card__thumbnail"
-                                  aria-hidden="true"
-                                />
-                                <div className="projects__item__card__icon-glow" />
-                              </div>
-
+                              
                               <div className="projects__item__card__header">
                                 <h3 className="projects__item__card__title font-trebuchet">
                                   {project.title}

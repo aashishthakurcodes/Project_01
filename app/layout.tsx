@@ -20,7 +20,7 @@ const personName = content.home?.name || 'Portfolio';
 const description =
   'Senior full stack developer specialising in React, Next.js, TypeScript, Node.js and Azure, based in the UK. 9+ years’ experience delivering large-scale web apps for IBM, ADP, ERGO and more.';
 const keywords = [
-  'Lewis Hadden',
+  
   'Full Stack Developer',
   'React Developer',
   'Next.js Developer',
