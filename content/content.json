@@ -50,7 +50,7 @@
     "label": "Get to know me",
     "openToWorkText": "Available for opportunities",
     "descriptionHeader": "Hello! <span class='wave'>👋</span>",
-    "description": "My name is Aashish, and I’m a passionate Full Stack Developer with 1+ year of professional experience, primarily focused on building modern, scalable, and high-performance web applications. I specialize in frontend development using technologies like Next.js, React, and TypeScript, where I design intuitive user interfaces and develop efficient, reusable component systems.",
+    "description": "My name is Aashish, and I’m a passionate Full Stack Developer with 1.5+ year of professional experience, primarily focused on building modern, scalable, and high-performance web applications. I specialize in frontend development using technologies like Next.js, React, and TypeScript, where I design intuitive user interfaces and develop efficient, reusable component systems.",
     "image": {
       "url": "/static/images/aashish.png",
       "size": {
@@ -64,7 +64,7 @@
     "cta": {
       "primary": {
         "text": "Download CV",
-        "url": "/static/documents/resumeFullStackAashish.pdf",
+        "url": "/static/documents/resumeFullStackAashishh.pdf",
         "icon": "mdi:download",
         "ariaLabel": "Download CV as PDF"
       },
@@ -83,9 +83,9 @@
     },
     "items": [
       {
-      "company": "Centocode Technologies Pvt. Ltd.",
+      "company": "FusionNext Technologies Pvt. Ltd.",
       "title": "Frontend Developer",
-      "years": "Mar 2025 - Present",
+      "years": "Mar 2025 - August 2026",
       "mainTech": ["Next.js", "React", "TypeScript","Angular"],
       "icon": "devicon:nextjs",
       "technologies": [
@@ -129,7 +129,7 @@
     "label": "What I've built",
     "items": [
        {
-    "title": "Waptoz – Marketing Automation Platform",
+    "title": "Wappi – Marketing Automation Platform",
     "startDate": "2025",
     "description": "Developed scalable frontend features for bulk campaigns, segmentation, and automation workflows with real-time dashboards. Implemented efficient state management to handle large datasets and improved user experience across complex workflows.",
     "theme": {
@@ -168,25 +168,7 @@
     ]
   },
  
-  {
-    "title": "CentoCode – Corporate Website",
-    "startDate": "2025",
-    "description": "Built a responsive corporate website to showcase services and business offerings with dynamic sections and optimized performance. Focused on accessibility, clean UI design, and improved user engagement.",
-    "theme": {
-      "text": "light",
-      "border": "light",
-      "background": "dark"
-    },
-    "thumbnail": "mdi:web",
-    "images": [],
-    "url": "https://centocode.com/",
-    "technologies": [
-      { "class": "devicon:nextjs", "name": "Next.js" },
-      { "class": "devicon:typescript", "name": "TypeScript" },
-      { "class": "logos:material-ui", "name": "Material UI" },
-      { "class": "devicon:bootstrap", "name": "Bootstrap" }
-    ]
-  },
+  
   {
     "title": "Super Charged – Supercar Showcase",
     "startDate": "2024",
